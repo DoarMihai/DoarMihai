@@ -1,5 +1,18 @@
-### Hi there 👋
+## Stefanescu Mihai - Web Developer 👋
+***
+#### Despre Mine 👨‍💻
 
+#### Tech Stack 🧱
+
+#### Blogging 📜
+
+#### Hobby-uri 🐧
+
+#### Setup 💻
+
+#### Cele mai noi articole scrise 💡
+
+#### Contact 📬
 <!--
 **DoarMihai/DoarMihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
