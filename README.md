@@ -1,6 +1,7 @@
 ## Stefanescu Mihai - Web Developer 👋
 ***
 #### Despre Mine 👨‍💻
+In lumea dezvoltarii web de aproape 6 ani, am lucrat atat frontend cu jQuery, Bootstrap, Sass, Webpack, Tailwind cat si backend cu Laravel, Code Igniter si Symfony, de cele mai multe ori cu MySql si PostgreSql, de asemenea si RabbitMq cat si Redis.
 
 #### Tech Stack 🧱
 
