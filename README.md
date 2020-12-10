@@ -17,7 +17,7 @@ Cand sunt acasa lucrez de pe desktop-ul meu, un i7 cu 64 Gb Ram pe care am avut 
 #### Cele mai noi articole scrise 💡
 
 #### Contact 📬
-
+[eMail](mailto:mihai@invata-programare.ro) | [Twitter](https://twitter.com/doar_mihai) | [Facebook](https://www.facebook.com/justM105) | [LinkedIn](https://www.linkedin.com/in/stefanescu-mihai-967840b0/)
 <!--
 **DoarMihai/DoarMihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
